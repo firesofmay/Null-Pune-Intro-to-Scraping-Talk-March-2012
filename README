@@ -1,5 +1,15 @@
 It contains the Slides and the Relevant Code for the talk which was presented by Me and Gaurav Jain (github.com/gmjain) on Introduction to Scraping in Python.
 
+- Short Basics of HTTP
+- Examples of How User Agents matter?
+- What Tools you can use.
+- How to scrap sale price from an item on a website.
+- How to extract Facebook permissions list via a python script.
+- How to write your own Google Translator API, Convert your text to any language and using Facebook API, Posting the converted text to your wall.
+- How to scrap shodanhq's Results without Login.
+
+
+
 Just clone this repo and start playing :)
 
 Feel free to use/modify the code. 
